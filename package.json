@@ -1,6 +1,6 @@
 {
   "name": "ls0932",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Operate localstorage",
   "main": "index.js",
   "scripts": {
