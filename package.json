@@ -1,0 +1,19 @@
+{
+  "name": "ls0932",
+  "version": "1.0.0",
+  "description": "Operate localstorage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leiyu0932/ls0932.git"
+  },
+  "author": "leizhenyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leiyu0932/ls0932/issues"
+  },
+  "homepage": "https://github.com/leiyu0932/ls0932#readme"
+}
